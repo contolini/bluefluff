@@ -4,7 +4,7 @@
 	"description": "Furby Connect BLE Controller",
 	"main": "fluffd.js",
 	"dependencies": {
-		"noble": "1.9.1",
+		"@abandonware/noble": "^1.9.2-15",
 		"winston": "3.1.0"
 	},
 	"devDependencies": {
